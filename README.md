@@ -1,6 +1,10 @@
 # 🚀 CloudLiftDemo – Modernizing the CloudProfile Application
 
-CloudLiftDemo is a project that demonstrates how a legacy multi-tier application can be modernized using **AWS managed services**, shifting away from VM-based deployment to a fully cloud-optimized architecture. The goal is to improve agility, scalability, performance, and reduce operational overhead.
+CloudLiftDemo is a project that demonstrates how a legacy multi-tier application can be modernized using **AWS managed services**, shifting away from VM-based deployment to a fully cloud-optimized architecture.
+
+![alt text](<CloudLiftDemo Arcitechture.png>)
+
+The goal is to improve agility, scalability, performance, and reduce operational overhead.
 
 ---
 
